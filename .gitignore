@@ -1,0 +1,5 @@
+environment.sh
+.vscode/
+.python_packages/
+.idea/
+
